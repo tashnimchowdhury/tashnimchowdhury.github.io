@@ -9,9 +9,11 @@ redirect_from:
 ---
 
 # About Me
-I am a Ph.D. candidate in the [Information Systems Department](https://informationsystems.umbc.edu/) at [University of Maryland, Baltimore County (UMBC)](https://www.umbc.edu/), advised by [Dr. Maryam Rahnemoonfar](http://maryam.is.umbc.edu/bl/). I am also working as a research assistant in the [Computer Vision and Remote Sensing Lab (BinaLab)](http://maryam.is.umbc.edu/bl/) - The Bina Lab.    
+I am a Ph.D. candidate in the [Information Systems Department](https://informationsystems.umbc.edu/) at [University of Maryland, Baltimore County (UMBC)](https://www.umbc.edu/), 
+advised by [Dr. Maryam Rahnemoonfar](http://maryam.is.umbc.edu/bl/). I am also working as a research assistant in the [Computer Vision and Remote Sensing Lab (BinaLab)](http://maryam.is.umbc.edu/bl/).    
 
-Prior to joining UMBC as a graduate student, I completed my MS in Electrical Engineering from The University of Toledo. After my MS, I worked as Software Development Engineer in [Fluence Automation](https://www.fluenceautomation.com/).
+Prior to joining UMBC as a graduate student, I completed my MS in Electrical Engineering from The University of Toledo. 
+After my MS, I worked as Software Development Engineer in [Fluence Automation](https://www.fluenceautomation.com/).
 
 # Research Interests
 My research interests lie in the general area of machine learning and artificial intelligence, particularly in the area of semantic segmentation, Vision Transformer, Self-Attention, Generative Modeling, Few Shot Learning. 
