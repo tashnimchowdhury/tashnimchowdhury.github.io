@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tashnim Chowdhury"
-  avatar           : "tashim-pic-1.jpg"
+  avatar           : #"tashim-pic-1.jpg"
   bio              : "Ph.D. Candidate,<br/>
                       Department of Information Systems,<br/>
                       UMBC"
