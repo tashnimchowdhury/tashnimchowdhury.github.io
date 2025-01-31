@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tashnim Chowdhury"
 title_separator          : "-"
 name                     : &name "Tashnim Chowdhury"
-description              : &description "Graduate Research Assistant at UMBC"
+description              : &description "Machine Learning Researcher and Software Engineer"
 url                      : https://tashnimchowdhury.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tashnimchowdhury/tashnimchowdhury.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tashnim Chowdhury"
   avatar           : "tashnim-pic-2.jpg"
-  bio              : "Graduate Research Assistant at UMBC"
-  location         : "Baltimore, Maryland, USA"
+  bio              : "Machine Learning Researcher and Software Engineer"
+  location         : "Virginia, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=8Gcf-GoAAAAJ&hl=en&oi=ao"
-  email            : "tchowdh1@umbc.edu"
+  email            : "ctashnim@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
