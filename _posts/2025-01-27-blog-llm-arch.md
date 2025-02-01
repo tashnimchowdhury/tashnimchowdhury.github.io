@@ -1,7 +1,7 @@
 ---
 title: 'LLM Architecture Types'
 date: 2025-01-27
-permalink: /posts/2025/01/blog-post-1/
+permalink: /posts/2025/01/blog-llm-arch/
 tags:
   - LLM
   - Transformer
