@@ -19,6 +19,8 @@ Don't Nest Your Code
 Dependency Injection
 ------
 
+[Blog-Dependency Injection](https://tashnimchowdhury.github.io/posts/2025/01/blog-dependency-injection/)
+
 References
 ------
 1. [Why You Shouldn't Nest Your Code - CodeAesthetic](https://www.youtube.com/watch?v=CFRhGnuXG-4)
