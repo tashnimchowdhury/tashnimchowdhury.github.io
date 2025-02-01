@@ -18,3 +18,9 @@ Don't Nest Your Code
 
 Dependency Injection
 ------
+
+References
+------
+1. [Why You Shouldn't Nest Your Code - CodeAesthetic](https://www.youtube.com/watch?v=CFRhGnuXG-4)
+2. [Composition over Inheritance - CodeAesthetic](https://www.youtube.com/watch?v=hxGOiiR9ZKg)
+3. [Dependency Injection - CodeAesthetic](https://www.youtube.com/watch?v=J1f5b4vcxCQ)
