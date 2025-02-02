@@ -20,7 +20,7 @@ After my MS, I worked as Software Development Engineer in [Fluence Automation](h
 My research interests lie in the general area of machine learning and artificial intelligence, particularly in the area of NLP, Transformer, Computer Vision, Generative Modeling, and Large Language Model. 
 
 # Blog
-I have writing about different machine learning concept (both theoretical concept and applications). The topics includes concepts on NLP, Computer Vision, and LLM. I have also started writing about different software engineering design concepts and best practice. These blogs sometimes might be incomplete, since they are my notes on those concepts. I will keep adding contents on each topic.
+I have been writing about different machine learning concepts (both theory and applications). The topics includes concepts on NLP, Computer Vision, and LLM. I have also started writing about different software engineering design concepts and best practice. These blogs sometimes might be incomplete, since they are my notes on those concepts. I will keep adding contents on each topic.
 
 # Recent News
 * I have started writing blogs on different topic including machine learning research and application. I have also started writing about software engineering design and concept (mainly on C++ and Python).
