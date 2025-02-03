@@ -34,3 +34,17 @@ Encoder Decoder Models
 
 Decoder Only Models
 ------
+
+LLM Life Cycle:
+======
+1. Scope: Define the use case of a LLM model
+2. Select: Choose an existing model or pretrain your own
+3. Adapt/Align Model and Evaluation:
+    1. Adapt and Align Model: 
+        - Prompt Engineering / In-Context Learning
+        - Fine Tuning / Instruct Fine-Tuning
+        - Align with Human Feedback (RLHF)
+    2. Evaluation
+4. Application Intergration:
+    1. Optimize and deploy model for inference
+    2. Augment model and build LLM-powered applications
