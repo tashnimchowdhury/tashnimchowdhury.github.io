@@ -8,16 +8,17 @@ tags:
   - NLP
 ---
 
-LLM Types:
-======
+# LLM
+
+## LLM Types:
 Based on different usage version of Transformer architecture, there are three type of LLM architectures:
 
 1. Encoder Only Models
 2. Encoder Decoder Models
 3. Decoder Only Models
 
-Encoder Only Models
-------
+### Encoder Only Models
+
 - Also known as **Autoencoding Models**
 - Trained using Masked Language Modeling (Denoising objective)
 - Bidirectional context of input sequence
@@ -29,14 +30,13 @@ Encoder Only Models
     - BERT
     - ROBERTA
 
-Encoder Decoder Models
-------
+### Encoder Decoder Models
 
-Decoder Only Models
-------
 
-LLM Life Cycle:
-======
+### Decoder Only Models
+
+
+## LLM Life Cycle:
 1. Scope: Define the use case of a LLM model
 2. Select: Choose an existing model or pretrain your own
 3. Adapt/Align Model and Evaluation:
