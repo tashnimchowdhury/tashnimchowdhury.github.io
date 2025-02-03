@@ -1,5 +1,5 @@
 ---
-title: 'Dependency Injection'
+title: 'C++: constexpr'
 date: 2025-02-02
 permalink: /posts/2025/02/blog-cpp-constexpr/
 tags:
