@@ -2,7 +2,7 @@
 
 ## C++ Basics
 1. Designing Classes - Klaus Iglberger
-    - Part # 1 - CppCon2021: [Designing Classes - Part 1](https://www.youtube.com/watch?v=motLOioLJfg) [x] &starf; &starf; &starf; &starf; &starf;
+    - Part # 1 - CppCon2021: [Designing Classes - Part 1](https://www.youtube.com/watch?v=motLOioLJfg) [x] <progress max=100 value=10> </progress> 10%
 
         - **Strategy Method** (using **Dependency Injection**)
         - **Template Method** (making public non-virtual function as counterpart of private pure virtual function)
