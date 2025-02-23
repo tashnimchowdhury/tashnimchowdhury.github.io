@@ -6,7 +6,7 @@
 
         - **Strategy Method** (using **Dependency Injection**)
         - **Template Method** (making public non-virtual function as counterpart of private pure virtual function)
-    - Part # 2 - CppCon2021: [Designing Classes - Part 2](https://www.youtube.com/watch?v=O65lEiYkkbc) [] &starf; &starf; &starf; &starf; &starf;
+    - Part # 2 - CppCon2021: [Designing Classes - Part 2](https://www.youtube.com/watch?v=O65lEiYkkbc) [] :star: :star: :star: :star: :star:
 
     - Breaking Dependencies **SOLID Principles** - CppCon2020: [SOLID Principles](https://www.youtube.com/watch?v=Ntraj80qN2k) []
     - Breaking Dependencies **Type Erasure** - CppCon2021: [Type Erasure](https://www.youtube.com/watch?v=4eeESJQk-mw) []
