@@ -12,7 +12,7 @@
     - Breaking Dependencies **Type Erasure** - CppCon2021: [Type Erasure](https://www.youtube.com/watch?v=4eeESJQk-mw) []
     - Breaking Dependencies **Visitor Design Pattern** - CppCon2021: [Visitor Design Pattern](https://www.youtube.com/watch?v=PEcy1vYHb8A) []
     
-2. RAII and Rule of Zero - CppCon2019 - Arthur O'Dwyer: [RAII and Rule of Zero](https://www.youtube.com/watch?v=7Qgd9B1KuMQ) [x] "&starf; &starf; &starf; &starf; &starf;"
+2. RAII and Rule of Zero - CppCon2019 - Arthur O'Dwyer: [RAII and Rule of Zero](https://www.youtube.com/watch?v=7Qgd9B1KuMQ) [x] ⭐⭐⭐⭐⭐
 
 3. Special Member Function - CppCon2021 - Klaus Iglberger: [Special Member Function](https://www.youtube.com/watch?v=9BM5LAvNtus) [x]
     - Talks about 6 Special functions: Default Ctor, Copy Ctor, Copy Assignment Operator, Move Ctor, Move Assignment Operator,
