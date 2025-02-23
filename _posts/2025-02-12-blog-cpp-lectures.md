@@ -2,11 +2,11 @@
 
 ## C++ Basics
 1. Designing Classes - Klaus Iglberger
-    - Part # 1 - CppCon2021: [Designing Classes - Part 1](https://www.youtube.com/watch?v=motLOioLJfg) [x] <progress max=100 value=10> </progress> 10%
+    - Part # 1 - CppCon2021: [Designing Classes - Part 1](https://www.youtube.com/watch?v=motLOioLJfg) [x]
 
         - **Strategy Method** (using **Dependency Injection**)
         - **Template Method** (making public non-virtual function as counterpart of private pure virtual function)
-    - Part # 2 - CppCon2021: [Designing Classes - Part 2](https://www.youtube.com/watch?v=O65lEiYkkbc) []
+    - Part # 2 - CppCon2021: [Designing Classes - Part 2](https://www.youtube.com/watch?v=O65lEiYkkbc) []. :starf
 
     - Breaking Dependencies **SOLID Principles** - CppCon2020: [SOLID Principles](https://www.youtube.com/watch?v=Ntraj80qN2k) []
     - Breaking Dependencies **Type Erasure** - CppCon2021: [Type Erasure](https://www.youtube.com/watch?v=4eeESJQk-mw) []
