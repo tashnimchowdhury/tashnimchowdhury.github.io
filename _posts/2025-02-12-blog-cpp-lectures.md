@@ -23,11 +23,13 @@
 
     - Breaking Dependencies **Type Erasure** - CppCon2021: [Type Erasure](https://www.youtube.com/watch?v=4eeESJQk-mw) []
 
+    - Breaking Dependencies - **C++ Type Erasure** - The Implementation Details - Klaus Iglberger CppCon 2022: [Type Erasure-Implementation Details](https://www.youtube.com/watch?v=qn6OqefuH08)
+
     - Breaking Dependencies **Visitor Design Pattern** - CppCon2021: [Visitor Design Pattern](https://www.youtube.com/watch?v=PEcy1vYHb8A) []
 
     - How to use **Dependency Injection** - Francesco Joffoli - CppCon2022: [How to use Dependency Injection in C++ to write maintainable software](https://www.youtube.com/watch?v=l6Y9PqyK1Mc)
 
-    - Dependency Injection in C++ - A Practical Guide - Peter Muldoon - C++OnSea2024: [Dependency Injection - A Practical Guide](https://www.youtube.com/watch?v=_UTgOC6jW8o)
+    - Dependency Injection in C++ - A Practical Guide - Peter Muldoon - C++OnSea2024: [Dependency Injection - A Practical Guide](https://www.youtube.com/watch?v=_UTgOC6jW8o) [x]
         - Methds of dependency injection:
             - Link time dependency injection
             - Dependency Injection via Inheritance/virtual function
@@ -38,9 +40,14 @@
             - Method Injection
             - Constructor Injection
 
-    - Blog on DI - by Vladris: [DI in C++ - Vladris](https://vladris.com/blog/2016/07/06/dependency-injection-in-c.html) ⭐⭐⭐⭐⭐
+    - Blog on **Dependency Injection**:
+        - Vladris: [DI in C++ - Vladris](https://vladris.com/blog/2016/07/06/dependency-injection-in-c.html) ⭐⭐⭐⭐⭐
     
-    - Blog on Intro to Dependency Injection: [Dependency Injection Intro-Codymorterud](https://www.codymorterud.com/design/2018/09/07/dependency-injection-cpp.html) ⭐⭐⭐
+        - Blog on Intro to Dependency Injection: [Dependency Injection Intro-Codymorterud](https://www.codymorterud.com/design/2018/09/07/dependency-injection-cpp.html) ⭐⭐⭐
+
+    - Blog on **Type Erasure**:
+        - C++ Type Erasure Explained - Dave Kilian: [Dave Kilian-C++ Type Erasure](https://davekilian.com/cpp-type-erasure.html)
+        - What is Type Erasure - Arthur O'Dwyer: [Arthur O'Dwyer-What is Type Erasure](https://quuxplusone.github.io/blog/2019/03/18/what-is-type-erasure/)
 
 3. Unit Testing:
     - Unit Testing in C++ - Dave Steffen - CppCon2024: [Unit Testing in C++](https://www.youtube.com/watch?v=MwoAM3sznS0) [x] ⭐⭐⭐⭐⭐
