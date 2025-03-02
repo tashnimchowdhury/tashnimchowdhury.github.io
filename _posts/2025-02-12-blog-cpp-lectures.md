@@ -70,3 +70,5 @@
 2. Medium blog on **C++ Multithreaded Program** by Dung Le: [Optmizations for C++ Multithreaded Program](https://medium.com/distributed-knowledge/optimizations-for-c-multi-threaded-programs-33284dee5e9c)
 
 3. Failing Successfully: **Reporting and Handling Errors** - CppCon2021 - Robert Leahy: [Reporting and Handling Errors](https://www.youtube.com/watch?v=dQaRLmM7KKk) []
+
+4. When Nanoseconds Matter: **Ultrafast Trading Systems in C++** - David Gross - CppCon 2024: [When Nanosecond Matters](https://www.youtube.com/watch?v=sX2nF1fW7kI)
